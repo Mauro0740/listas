@@ -90,7 +90,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 #EXTINF:0 type="stream" channelId="-1", FMH Family
 http://45.181.120.147:9800/play/080/index.m3u8
 
-#EXTINF:-1 tvg-name="FMH Movies" tvg-logo="" tvg-language="spa", FMH Movie
+#EXTINF:-1 tvg-name="FMH Movies" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/FMHmovies.png", FMH Movie
 http://45.160.13.201:8000/play/094
 
 #EXTINF:24 type="stream" channelId="1304", FX
