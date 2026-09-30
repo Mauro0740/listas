@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/tvguide.cl.xml"
+
 #EXTINF:225 type="stream" channelId="1745" group="Nacionales", La Red
 http://45.166.73.251:4000/play/a04k/index.m3u8
 #EXTINF:0 type="stream" channelId="1278" group="Nacionales", TV+
