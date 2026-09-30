@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Mauro0740/listas/836d7b9b7e01ffbb6b5c4221deba521d76e609db/XML/epg_CL.xml"
+#EXTM3U url-tvg="http://raw.githubusercontent.com/Mauro0740/listas/836d7b9b7e01ffbb6b5c4221deba521d76e609db/XML/epg_CL.xml"
 
 #EXTINF:225 type="stream" channelId="1745" group="Nacionales", La Red
 http://45.166.73.251:4000/play/a04k/index.m3u8
