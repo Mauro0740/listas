@@ -84,7 +84,7 @@ https://v1.tustreaming.cl/emociontv/index.m3u8?hls
 #EXTINF:-1 tvg-id="ENTChannel.uk" tvg-name="ENT Channel" tvg-logo="https://static.elektamedia.com/ch/entch.png" tvg-language="spa",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-country="CL", ENT family
+#EXTINF:-1 tvg-id="ENTFamily.cl" tvg-name="ENT Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" tvg-country="CL" tvg-language="spa",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", FMH Family
