@@ -81,7 +81,7 @@ http://38.224.231.47:8000/play/a01l/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="2875", emociontv
 https://v1.tustreaming.cl/emociontv/index.m3u8?hls
 
-#EXTINF:0 type="stream" channelId="-1" tvg-country="CL", ENT Channel
+#EXTINF:-1 tvg-id="ENTChannel.uk" tvg-name="ENT Channel" tvg-logo="https://static.elektamedia.com/ch/entch.png" tvg-language="spa",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-country="CL", ENT family
