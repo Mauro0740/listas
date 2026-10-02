@@ -9,7 +9,7 @@ http://38.7.197.119:4000/play/a01e/index.m3u8?hls
 http://38.7.197.119:4000/play/a01g/index.m3u8?hls
 
 #EXTINF:-1 tvg-name="UCV2 tv" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/UCV2.png" group="Nacionales", UCV 2
-https://u nlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="3984" group="Nacionales" shift="1" tvg-country="CL", TVN
 http://38.7.197.119:4000/play/a01n/index.m3u8?hls
