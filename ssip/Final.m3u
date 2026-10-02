@@ -5,11 +5,11 @@ http://45.166.73.251:4000/play/a04k/index.m3u8
 #EXTINF:0 type="stream" channelId="1278" group="Nacionales", TV+
 http://38.7.197.119:4000/play/a01e/index.m3u8?hls
 
-#EXTINF:24 type="stream" channelId="-1" group="Nacionales" shift="1" tvg-country="CL", UCV
+#EXTINF:-1 tvg-id="0108" tvg-name="UCV TV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" tvg-country="CL" tvg-language="spa" group="Nacionales", UCV
 http://38.7.197.119:4000/play/a01g/index.m3u8?hls
 
-#EXTINF:20 type="stream" channelId="-1" group="Nacionales", UCV 2
-https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="0108" tvg-name="UCV TV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group="Nacionales", UCV 2
+https://u nlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:11 type="stream" channelId="3984" group="Nacionales" shift="1" tvg-country="CL", TVN
 http://38.7.197.119:4000/play/a01n/index.m3u8?hls
@@ -34,7 +34,8 @@ https://redirector.dps.live/hls/13cultura/playlist.m3u8?hls
 
 #EXTINF:-1 tvg-id="0164" tvg-name="Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" tvg-country="CL" tvg-language="spa" group="Nacionales", 13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-group="Nacionales", ViaX
+
+#EXTINF:-1 tvg-id="0112" tvg-name="Vía X" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/chile/via-x-cl.png" group="Nacionales", ViaX
 http://45.232.210.1:18000/play/a092/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="Nacionales", 13 Rec
@@ -42,8 +43,10 @@ http://38.7.197.119:4000/play/a00i/index.m3u8?hls
 
 #EXTINF:0 type="stream" channelId="4750" group="Nacionales", Zona Latina
 http://45.232.210.1:18000/play/a09h/index.m3u8
+
 #EXTINF:11 type="stream" channelId="2883" group="Nacionales", CNN
 http://45.232.210.1:18000/play/a09j/index.m3u8
+
 #EXTINF:0 type="stream" channelId="4695" group="Nacionales", Teletrack
 http://38.7.197.119:4000/play/a01w/index.m3u8?hls
 #EXTINF:11 type="stream" channelId="2505" group="Infantil", Discovery Kids
