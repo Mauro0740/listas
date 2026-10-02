@@ -5,10 +5,10 @@ http://45.166.73.251:4000/play/a04k/index.m3u8
 #EXTINF:0 type="stream" channelId="1278" group="Nacionales", TV+
 http://38.7.197.119:4000/play/a01e/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="0108" tvg-name="UCV TV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" tvg-country="CL" tvg-language="spa" group="Nacionales", UCV
+#EXTINF:-1 tvg-name="UCV TV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" tvg-country="CL" tvg-language="spa" group="Nacionales", UCV
 http://38.7.197.119:4000/play/a01g/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="0108" tvg-name="UCV TV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group="Nacionales", UCV 2
+#EXTINF:-1 tvg-name="UCV2 tv" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/UCV2.png" group="Nacionales", UCV 2
 https://u nlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:11 type="stream" channelId="3984" group="Nacionales" shift="1" tvg-country="CL", TVN
@@ -38,7 +38,8 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vía X" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/chile/via-x-cl.png" group="Nacionales", ViaX
 http://45.232.210.1:18000/play/a092/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="Nacionales", 13 Rec
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/Rectv.png" group="Nacionales", 13 Rec
 http://38.7.197.119:4000/play/a00i/index.m3u8?hls
 
 #EXTINF:0 type="stream" channelId="4750" group="Nacionales", Zona Latina
@@ -49,20 +50,28 @@ http://45.232.210.1:18000/play/a09j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="4695" group="Nacionales", Teletrack
 http://38.7.197.119:4000/play/a01w/index.m3u8?hls
+
 #EXTINF:11 type="stream" channelId="2505" group="Infantil", Discovery Kids
 http://38.7.197.119:4000/play/a00v/index.m3u8?hls
+
 #EXTINF:11 type="stream" channelId="40" group="Infantil", Cartoon Network
 http://170.247.204.9:8000/play/a0cs/index.m3u8u?hls
+
 #EXTINF:11 type="stream" channelId="1305" group="Infantil", Cartoonito
 http://38.7.197.119:4000/play/a00w/index.m3u8?hls
+
 #EXTINF:11 type="stream" channelId="1197" group="Infantil", Disney Jr
 http://45.232.210.1:18000/play/a08j/index.m3u8
+
 #EXTINF:24 type="stream" channelId="19" group="Infantil", Disney
 http://45.166.93.156:9999/play/a0f3/index.m3u8?hls
-#EXTINF:0 type="stream" channelId="-1" group="Infantil" tvg-country="CL", El Chavo
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/el%20chavo.jpg" group="Infantil" tvg-country="CL", El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8?hls
+
 #EXTINF:0 type="stream" channelId="1436" group="Infantil", FMH Kids
 http://45.181.120.147:9800/play/081/index.m3u8
+
 #EXTINF:225 type="stream" channelId="41" group="Infantil" audio-track="spa" tvg-country="CL" size="Small", Nickelodeon
 http://38.224.231.176:8000/play/a02x/index.m3u8?hls
 #EXTINF:11 type="stream" channelId="322" group="Infantil", Nick Jr
@@ -93,14 +102,21 @@ http://38.7.197.119:4000/play/a00r/index.m3u8?hls
 http://45.166.73.251:4000/play/a03f/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="2875", emociontv
 https://v1.tustreaming.cl/emociontv/index.m3u8?hls
-#EXTINF:0 type="stream" channelId="-1" tvg-country="CL", ENT Channel
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-country="CL", ENT family
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0 type="stream" channelId="-1", FMH Family
-http://45.181.120.147:9800/play/080/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="FMH Movies", FMH Movie
+
+#EXTINF:-1 tvg-id="ENTChannel" tvg-name="ENT Channel" tvg-logo="https://static.elektamedia.com/ch/entch.png" tvg-country="CL", ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8?hls
+
+
+
+#EXTINF:-1 tvg-id="ENTFamily" tvg-name="ENT Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" tvg-country="CL", ENT family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8?hls
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/FMHFAMILY.png", FMH Family
+http://45.181.120.147:9800/play/080/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/FMHmovies.png", FMH Movie
 http://45.160.13.201:8000/play/094
+
 #EXTINF:24 type="stream" channelId="1304", FX
 http://38.224.48.4:8000/play/a0ww/index.m3u8?hls
 #EXTINF:11 type="stream" channelId="333" tvg-country="CL", Golden
@@ -155,12 +171,16 @@ http://181.78.71.71:18000/play/a04i/index.m3u8?hls
 http://38.56.111.14:8000/play/a046/index.m3u8?hls
 #EXTINF:225 type="stream" channelId="2557", Warner TV
 http://38.7.197.119:4000/play/a00d/index.m3u8?hls
-#EXTINF:0 type="stream" channelId="-1" tvg-country="CL", Xtrema Accion
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/Xtrema.jpg" tvg-country="CL", Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?hls
-#EXTINF:0 type="stream" channelId="-1" group="Deporte" tvg-country="CL", DSports
+
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/dsports.jpg" group="Deporte" tvg-country="CL", DSports
 http://186.148.196.250:81/play/a0o4/index.m3u8?hls
-#EXTINF:0 type="stream" channelId="-1" group="Deporte" tvg-country="CL", DSports 2
+
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/dsports2.png" group="Deporte" tvg-country="CL", DSports 2
 http://181.205.205.170:8888/play/a0x6/index.m3u8?hls
+
 #EXTINF:0 type="stream" channelId="1328" group="Deporte" tvg-country="CL", Fox Sports
 http://186.33.57.100:8000/play/a21u/index.m3u8?hls
 #EXTINF:11 type="stream" channelId="1263" group="Deporte" tvg-country="CL", ESPN
