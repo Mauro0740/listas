@@ -135,7 +135,10 @@ http://38.224.48.4:8000/play/a0ww/index.m3u8?hls
 http://45.181.120.147:9800/play/086/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="2502" group-title="General", Golden Edge
-http://45.160.13.201:8000/play/113?hls
+http://45.160.13.201:8000/play/113.ts
+
+#EXTINF:-1 type="stream" channelId="2502" group-title="General", Golden Edg
+http://45.160.13.201:8000/play/113.m3u8
 
 #EXTINF:-1 type="stream" channelId="1330" group-title="General", HBO
 http://177.53.153.21:8000/play/a11t/index.m3u8?hls
