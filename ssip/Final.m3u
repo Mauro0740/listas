@@ -129,16 +129,13 @@ http://45.181.120.147:9800/play/080/index.m3u8?hls
 http://45.160.13.201:8000/play/094?hls
 
 #EXTINF:-1 type="stream" channelId="1304" group-title="General", FX
-http://38.224.48.4:8000/play/a0ww/index.m3u8?hls
+http://38.224.48.4:8000/play/a0ww/index.m3u8.ts
 
-#EXTINF:-1 type="stream" channelId="333" group-title="General" tvg-country="CL", Golden
+#EXTINF:0 type="stream" channelId="333" group-title="General" tvg-country="CL", Golden
 http://45.181.120.147:9800/play/086/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="2502" group-title="General", Golden Edge
-http://45.160.13.201:8000/play/113.ts
-
-#EXTINF:-1 type="stream" channelId="2502" group-title="General", Golden Edg
-http://45.160.13.201:8000/play/113.m3u8
+http://45.160.13.201:8000/play/113
 
 #EXTINF:-1 type="stream" channelId="1330" group-title="General", HBO
 http://177.53.153.21:8000/play/a11t/index.m3u8?hls
@@ -214,8 +211,6 @@ http://38.7.197.119:4000/play/a00d/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/Xtrema.jpg" group-title="General" tvg-country="CL", Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?hls
-
-#EXTINF:group-title="Deporte" group-logo="http://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/iptv.png"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/dsports.jpg" group-title="Deporte" tvg-country="CL", DSports
 http://186.148.196.250:81/play/a0o4/index.m3u8?hls
