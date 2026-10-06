@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:225 type="stream" channelId="1745" group-title="Nacionales", La Red
+#EXTINF:-1 type="stream" channelId="1745" group-title="Nacionales", La Red
 http://45.166.73.251:4000/play/a04k/index.m3u8
 
-#EXTINF:0 type="stream" channelId="1278" group="Nacionales", TV+
+#EXTINF:-1 type="stream" channelId="1278" group="Nacionales", TV+
 http://38.7.197.119:4000/play/a01e/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/ucv.png" group="Nacionales", UCV
@@ -23,13 +23,13 @@ http://170.247.204.9:8000/play/a04x/index.m3u8u?hls
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/mega%202.png" group="Nacionales", Mega 2
 http://38.7.197.119:4000/play/a017/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="3037" group="Nacionales", CHV
+#EXTINF:-1 type="stream" channelId="3037" group="Nacionales", CHV
 http://45.232.210.1:18000/play/a07d/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="3986" group="Nacionales", Canal 13
+#EXTINF:-1 type="stream" channelId="3986" group="Nacionales", Canal 13
 http://45.232.210.1:18000/play/a07g/index.m3u8
 
-#EXTINF:11 type="stream" channelId="295" group="Nacionales", 13 C
+#EXTINF:-1 type="stream" channelId="295" group="Nacionales", 13 C
 https://redirector.dps.live/hls/13cultura/playlist.m3u8?hls
 
 #EXTINF:-1 tvg-id="0164" tvg-name="Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" tvg-country="CL" tvg-language="spa" group="Nacionales", 13 Teleseries
@@ -41,28 +41,28 @@ http://45.232.210.1:18000/play/a092/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/Rectv.png" group="Nacionales", 13 Rec
 http://38.7.197.119:4000/play/a00i/index.m3u8?hls
 
-#EXTINF:0 type="stream" channelId="4750" group="Nacionales", Zona Latina
+#EXTINF:-1 type="stream" channelId="4750" group="Nacionales", Zona Latina
 http://45.232.210.1:18000/play/a09h/index.m3u8
 
-#EXTINF:11 type="stream" channelId="2883" group="Nacionales", CNN
+#EXTINF:-1 type="stream" channelId="2883" group="Nacionales", CNN
 http://45.232.210.1:18000/play/a09j/index.m3u8
 
-#EXTINF:0 type="stream" channelId="4695" group="Nacionales", Teletrack
+#EXTINF:-1 type="stream" channelId="4695" group="Nacionales", Teletrack
 http://38.7.197.119:4000/play/a01w/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="2505" group-title="Infantil", Discovery Kids
+#EXTINF:-1 type="stream" channelId="2505" group-title="Infantil", Discovery Kids
 http://38.7.197.119:4000/play/a00v/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="40" group="Infantil", Cartoon Network
+#EXTINF:-1 type="stream" channelId="40" group="Infantil", Cartoon Network
 http://170.247.204.9:8000/play/a0cs/index.m3u8u?hls
 
-#EXTINF:11 type="stream" channelId="1305" group="Infantil", Cartoonito
+#EXTINF:-1 type="stream" channelId="1305" group="Infantil", Cartoonito
 http://38.7.197.119:4000/play/a00w/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="1197" group="Infantil", Disney Jr
+#EXTINF:-1 type="stream" channelId="1197" group="Infantil", Disney Jr
 http://45.232.210.1:18000/play/a08j/index.m3u8
 
-#EXTINF:24 type="stream" channelId="19" group="Infantil", Disney
+#EXTINF:-1 type="stream" channelId="19" group="Infantil", Disney
 http://45.166.93.156:9999/play/a0f3/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/el%20chavo.jpg" group="Infantil" tvg-country="CL", El Chavo
@@ -71,16 +71,16 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/FMHkids.png" group="Infantil" tvg-country="CL", FMH Kids
 http://45.181.120.147:9800/play/081/index.m3u8
 
-#EXTINF:225 type="stream" channelId="41" group="Infantil" audio-track="spa" tvg-country="CL" size="Small", Nickelodeon
+#EXTINF:-1 type="stream" channelId="41" group="Infantil" audio-track="spa" tvg-country="CL" size="Small", Nickelodeon
 http://38.224.231.176:8000/play/a02x/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="322" group="Infantil", Nick Jr
+#EXTINF:-1 type="stream" channelId="322" group="Infantil", Nick Jr
 http://45.232.210.1:18000/play/a0bg/index.m3u8
 
-#EXTINF:11 type="stream" channelId="2639" group="Infantil", Tooncast
+#EXTINF:-1 type="stream" channelId="2639" group="Infantil", Tooncast
 http://45.166.73.251:4000/play/a03z/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="1208" group-title=General, A&E
+#EXTINF:-1 type="stream" channelId="1208" group-title=General, A&E
 http://45.232.210.1:18000/play/a08y/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="2501", AMC Series
@@ -89,31 +89,31 @@ http://38.7.195.44:8000/play/a0d6?hls
 #EXTINF:-1 type="stream" channelId="2501" tvg-country="MX", AMC
 http://186.33.57.66:9000/play/a09g/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="1573", AXN
+#EXTINF:-1 type="stream" channelId="1573", AXN
 http://38.7.197.119:4000/play/a00j/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="50", Animal Planet
+#EXTINF:-1 type="stream" channelId="50", Animal Planet
 http://45.232.210.1:18000/play/a08p/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="64", Cinecanal
+#EXTINF:-1 type="stream" channelId="64", Cinecanal
 http://38.210.3.64:8090/play/a0iy?hls
 
-#EXTINF:11 type="stream" channelId="1326", Cinemax
+#EXTINF:-1 type="stream" channelId="1326", Cinemax
 http://38.210.3.64:8090/play/a0gt?hls
 
-#EXTINF:11 type="stream" channelId="3743" audio-track="spa" tvg-country="CL", DHE
+#EXTINF:-1 type="stream" channelId="3743" audio-track="spa" tvg-country="CL", DHE
 http://38.7.197.119:4000/play/a00o/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="57" tvg-country="CL", Discovery Channel
+#EXTINF:-1 type="stream" channelId="57" tvg-country="CL", Discovery Channel
 http://45.232.210.1:18000/play/a09v/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="58", Discovery Science
+#EXTINF:-1 type="stream" channelId="58", Discovery Science
 http://38.7.197.119:4000/play/a00r/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="2840", Discovery Turbo
+#EXTINF:-1 type="stream" channelId="2840", Discovery Turbo
 http://45.166.73.251:4000/play/a03f/index.m3u8?hls
 
-#EXTINF:0 type="stream" channelId="2875", emociontv
+#EXTINF:-1 type="stream" channelId="2875", emociontv
 https://v1.tustreaming.cl/emociontv/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ENTChannel" tvg-name="ENT Channel" tvg-logo="https://static.elektamedia.com/ch/entch.png" tvg-country="CL", ENT Channel
@@ -128,85 +128,85 @@ http://45.181.120.147:9800/play/080/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/FMHmovies.png", FMH Movie
 http://45.160.13.201:8000/play/094
 
-#EXTINF:24 type="stream" channelId="1304", FX
+#EXTINF:-1 type="stream" channelId="1304", FX
 http://38.224.48.4:8000/play/a0ww/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="333" tvg-country="CL", Golden
+#EXTINF:-1 type="stream" channelId="333" tvg-country="CL", Golden
 http://45.181.120.147:9800/play/086/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="2502", Golden Edge
+#EXTINF:-1 type="stream" channelId="2502", Golden Edge
 http://45.160.13.201:8000/play/113?hls
 
-#EXTINF:11 type="stream" channelId="1330", HBO
+#EXTINF:-1 type="stream" channelId="1330", HBO
 http://177.53.153.21:8000/play/a11t/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="935", HBO 2
+#EXTINF:-1 type="stream" channelId="935", HBO 2
 http://45.232.210.1:18000/play/a08f/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="2584", HBO Family
+#EXTINF:-1 type="stream" channelId="2584", HBO Family
 http://45.232.210.1:18000/play/a08i/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="2725", HBO Mundi
+#EXTINF:-1 type="stream" channelId="2725", HBO Mundi
 http://190.95.60.228:12061/play/a36h
 
-#EXTINF:11 type="stream" channelId="2585" tvg-country="CL", HBO Plus
+#EXTINF:-1 type="stream" channelId="2585" tvg-country="CL", HBO Plus
 http://45.232.210.1:18000/play/a08g/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="361", HBO Pop
+#EXTINF:-1 type="stream" channelId="361", HBO Pop
 http://186.33.57.68:9000/play/a09i/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="2583", HBO Signature
+#EXTINF:-1 type="stream" channelId="2583", HBO Signature
 http://38.210.3.64:8090/play/a0ht
 
-#EXTINF:11 type="stream" channelId="2587", HBO Xtreme
+#EXTINF:-1 type="stream" channelId="2587", HBO Xtreme
 http://179.1.158.52:8000/play/a0dn/index.m3u8
 
-#EXTINF:24 type="stream" channelId="1455", History
+#EXTINF:-1 type="stream" channelId="1455", History
 http://38.7.197.119:4000/play/a00t/index.m3u8?hls
 
-#EXTINF:24 type="stream" channelId="1201", History 2
+#EXTINF:-1 type="stream" channelId="1201", History 2
 http://38.7.195.44:8000/play/a082
 
-#EXTINF:11 type="stream" channelId="1418", HGTV
+#EXTINF:-1 type="stream" channelId="1418", HGTV
 http://38.7.197.119:4000/play/a00q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/mi%20pelicula.jpg", Mi Pelicula
 http://45.173.203.73:12000/play/a07l/index.m3u8?hls
 
-#EXTINF:0 type="stream" channelId="56", Nat Geo
+#EXTINF:-1 type="stream" channelId="56", Nat Geo
 http://45.232.210.1:18000/play/a09a/index.m3u8?hls
 
-#EXTINF:21 type="stream" channelId="188" tvg-country="CL", Sony
+#EXTINF:-1 type="stream" channelId="188" tvg-country="CL", Sony
 http://38.224.48.4:8000/play/a0hw/index.m3u8
 
-#EXTINF:0 type="stream" channelId="2007" tvg-country="CL", Sony Cine
+#EXTINF:-1 type="stream" channelId="2007" tvg-country="CL", Sony Cine
 https://a-cdn.klowdtv.com/803B48A/a-klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:11 type="stream" channelId="383", Space
+#EXTINF:-1 type="stream" channelId="383", Space
 http://38.7.197.119:4000/play/a00n/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="177", Star Channel
+#EXTINF:-1 type="stream" channelId="177", Star Channel
 http://38.250.178.205:8000/play/a08w/index.m3u8
 
-#EXTINF:11 type="stream" channelId="2625", Studio Universal
+#EXTINF:-1 type="stream" channelId="2625", Studio Universal
 http://38.250.178.205:8000/play/a0es/index.m3u8
 
-#EXTINF:21 type="stream" channelId="895", TCM
+#EXTINF:-1 type="stream" channelId="895", TCM
 http:\\45.232.210.1:18000\play\a09k\index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="1052" audio-track="spa" tvg-country="CL", TNT
+#EXTINF:-1 type="stream" channelId="1052" audio-track="spa" tvg-country="CL", TNT
 http://38.7.197.119:4000/play/a00m/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="2686", TNT Series
+#EXTINF:-1 type="stream" channelId="2686", TNT Series
 http://186.33.57.68:9000/play/a0ab/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="3317", Universal Channel
+#EXTINF:-1 type="stream" channelId="3317", Universal Channel
 http://181.78.71.71:18000/play/a04i/index.m3u8?hls
 
-#EXTINF:0 type="stream" channelId="187", Universal Cinema
+#EXTINF:-1 type="stream" channelId="187", Universal Cinema
 http://38.56.111.14:8000/play/a046/index.m3u8?hls
 
-#EXTINF:225 type="stream" channelId="2557", Warner TV
+#EXTINF:-1 type="stream" channelId="2557", Warner TV
 http://38.7.197.119:4000/play/a00d/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/Xtrema.jpg" tvg-country="CL", Xtrema Accion
@@ -218,35 +218,35 @@ http://186.148.196.250:81/play/a0o4/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/dsports2.png" group="Deporte" tvg-country="CL", DSports 2
 http://181.205.205.170:8888/play/a0x6/index.m3u8?hls
 
-#EXTINF:0 type="stream" channelId="1328" group="Deporte" tvg-country="CL", Fox Sports
+#EXTINF:-1 type="stream" channelId="1328" group="Deporte" tvg-country="CL", Fox Sports
 http://186.33.57.100:8000/play/a21u/index.m3u8?hls
 
-#EXTINF:11 type="stream" channelId="1263" group="Deporte" tvg-country="CL", ESPN
+#EXTINF:-1 type="stream" channelId="1263" group="Deporte" tvg-country="CL", ESPN
 http://170.247.204.9:8000/play/a04p/index.m3u8u?hls
 
-#EXTINF:11 type="stream" channelId="2540" group="Deporte", ESPN Premium
+#EXTINF:-1 type="stream" channelId="2540" group="Deporte", ESPN Premium
 http://170.247.204.9:8000/play/a04s/index.m3u8u?hls
 
-#EXTINF:225 type="stream" channelId="344" group="Deporte", ESPN 2
+#EXTINF:-1 type="stream" channelId="344" group="Deporte", ESPN 2
 http://170.247.204.9:8000/play/a04g/index.m3u8u?hls
 
-#EXTINF:11 type="stream" channelId="355" group="Deporte", ESPN 3
+#EXTINF:-1 type="stream" channelId="355" group="Deporte", ESPN 3
 http://170.247.204.9:8000/play/a0ag/index.m3u8u?hls
 
-#EXTINF:225 type="stream" channelId="1432" group="Deporte", ESPN 4
+#EXTINF:-1 type="stream" channelId="1432" group="Deporte", ESPN 4
 http://170.247.204.9:8000/play/a021/index.m3u8u?hls
 
-#EXTINF:11 type="stream" channelId="2540" group="Deporte", ESPN 5
+#EXTINF:-1 type="stream" channelId="2540" group="Deporte", ESPN 5
 http://170.247.204.9:8000/play/a0a8/index.m3u8u?hls
 
-#EXTINF:11 type="stream" channelId="2540" group="Deporte", ESPN 6
+#EXTINF:-1 type="stream" channelId="2540" group="Deporte", ESPN 6
 http://170.247.204.9:8000/play/a0c5/index.m3u8u?hls
 
-#EXTINF:225 type="stream" channelId="2540" group="Deporte", ESPN 7
+#EXTINF:-1 type="stream" channelId="2540" group="Deporte", ESPN 7
 http://170.247.204.9:8000/play/a01u/index.m3u8u?hls
 
-#EXTINF:11 type="stream" channelId="4668" group="Deporte" tvg-country="CL", TNT Sports
+#EXTINF:-1 type="stream" channelId="4668" group="Deporte" tvg-country="CL", TNT Sports
 http://170.247.204.9:8000/play/a0c0/index.m3u8u?hls
 
-#EXTINF:11 type="stream" channelId="4668" group="Deporte" tvg-country="CL", TNT Sports Premiun
+#EXTINF:-1 type="stream" channelId="4668" group="Deporte" tvg-country="CL", TNT Sports Premiun
 http://170.247.204.9:8000/play/a00e/index.m3u8u?hls
