@@ -80,136 +80,136 @@ http://45.232.210.1:18000/play/a0bg/index.m3u8?hls
 #EXTINF:-1 type="stream" channelId="2639" group="Infantil", Tooncast
 http://45.166.73.251:4000/play/a03z/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="1208" group-title=General, A&E
+#EXTINF:-1 type="stream" channelId="1208" group-title="General", A&E
 http://45.232.210.1:18000/play/a08y/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="2501" group-title=General, AMC Series
+#EXTINF:-1 type="stream" channelId="2501" group-title="General", AMC Series
 http://38.7.195.44:8000/play/a0d6?hls
 
-#EXTINF:-1 type="stream" channelId="2501" group-title=General tvg-country="MX", AMC
+#EXTINF:-1 type="stream" channelId="2501" group-title="General" tvg-country="MX", AMC
 http://186.33.57.66:9000/play/a09g/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="1573" group-title=General, AXN
+#EXTINF:-1 type="stream" channelId="1573" group-title="General", AXN
 http://38.7.197.119:4000/play/a00j/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="50" group-title=General, Animal Planet
+#EXTINF:-1 type="stream" channelId="50" group-title="General", Animal Planet
 http://45.232.210.1:18000/play/a08p/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="64" group-title=General, Cinecanal
+#EXTINF:-1 type="stream" channelId="64" group-title="General", Cinecanal
 http://38.210.3.64:8090/play/a0iy?hls
 
-#EXTINF:-1 type="stream" channelId="1326" group-title=General, Cinemax
+#EXTINF:-1 type="stream" channelId="1326" group-title="General", Cinemax
 http://38.210.3.64:8090/play/a0gt?hls
 
-#EXTINF:-1 type="stream" channelId="3743" audio-track="spa" group-title=General tvg-country="CL", DHE
+#EXTINF:-1 type="stream" channelId="3743" audio-track="spa" group-title="General" tvg-country="CL", DHE
 http://38.7.197.119:4000/play/a00o/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="57" group-title=General tvg-country="CL", Discovery Channel
+#EXTINF:-1 type="stream" channelId="57" group-title="General" tvg-country="CL", Discovery Channel
 http://45.232.210.1:18000/play/a09v/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="58" group-title=General, Discovery Science
+#EXTINF:-1 type="stream" channelId="58" group-title="General", Discovery Science
 http://38.7.197.119:4000/play/a00r/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="2840" group-title=General, Discovery Turbo
+#EXTINF:-1 type="stream" channelId="2840" group-title="General", Discovery Turbo
 http://45.166.73.251:4000/play/a03f/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="2875" group-title=General, emociontv
+#EXTINF:-1 type="stream" channelId="2875" group-title="General", emociontv
 https://v1.tustreaming.cl/emociontv/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="ENTChannel" tvg-name="ENT Channel" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title=General tvg-country="CL", ENT Channel
+#EXTINF:-1 tvg-id="ENTChannel" tvg-name="ENT Channel" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="General" tvg-country="CL", ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8?hls
 
-#EXTINF:-1 tvg-id="ENTFamily" tvg-name="ENT Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title=General tvg-country="CL", ENT family
+#EXTINF:-1 tvg-id="ENTFamily" tvg-name="ENT Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="General" tvg-country="CL", ENT family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8?hls
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/FMHFAMILY.png" group-title=General, FMH Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/FMHFAMILY.png" group-title="General", FMH Family
 http://45.181.120.147:9800/play/080/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/FMHmovies.png" group-title=General, FMH Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/FMHmovies.png" group-title="General", FMH Movie
 http://45.160.13.201:8000/play/094?hls
 
-#EXTINF:-1 type="stream" channelId="1304" group-title=General, FX
+#EXTINF:-1 type="stream" channelId="1304" group-title="General", FX
 http://38.224.48.4:8000/play/a0ww/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="333" group-title=General tvg-country="CL", Golden
+#EXTINF:-1 type="stream" channelId="333" group-title="General" tvg-country="CL", Golden
 http://45.181.120.147:9800/play/086/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="2502" group-title=General, Golden Edge
+#EXTINF:-1 type="stream" channelId="2502" group-title="General", Golden Edge
 http://45.160.13.201:8000/play/113?hls
 
-#EXTINF:-1 type="stream" channelId="1330" group-title=General, HBO
+#EXTINF:-1 type="stream" channelId="1330" group-title="General", HBO
 http://177.53.153.21:8000/play/a11t/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="935" group-title=General, HBO 2
+#EXTINF:-1 type="stream" channelId="935" group-title="General", HBO 2
 http://45.232.210.1:18000/play/a08f/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="2584" group-title=General, HBO Family
+#EXTINF:-1 type="stream" channelId="2584" group-title="General", HBO Family
 http://45.232.210.1:18000/play/a08i/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="2725" group-title=General, HBO Mundi
+#EXTINF:-1 type="stream" channelId="2725" group-title="General", HBO Mundi
 http://190.95.60.228:12061/play/a36h?hls
 
-#EXTINF:-1 type="stream" channelId="2585" group-title=General tvg-country="CL", HBO Plus
+#EXTINF:-1 type="stream" channelId="2585" group-title="General" tvg-country="CL", HBO Plus
 http://45.232.210.1:18000/play/a08g/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="361" group-title=General, HBO Pop
+#EXTINF:-1 type="stream" channelId="361" group-title="General", HBO Pop
 http://186.33.57.68:9000/play/a09i/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="2583" group-title=General, HBO Signature
+#EXTINF:-1 type="stream" channelId="2583" group-title="General", HBO Signature
 http://38.210.3.64:8090/play/a0ht?hls
 
-#EXTINF:-1 type="stream" channelId="2587" group-title=General, HBO Xtreme
+#EXTINF:-1 type="stream" channelId="2587" group-title="General", HBO Xtreme
 http://179.1.158.52:8000/play/a0dn/index.m3u8
 
-#EXTINF:-1 type="stream" channelId="1455" group-title=General, History
+#EXTINF:-1 type="stream" channelId="1455" group-title="General", History
 http://38.7.197.119:4000/play/a00t/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="1201" group-title=General, History 2
+#EXTINF:-1 type="stream" channelId="1201" group-title="General", History 2
 http://38.7.195.44:8000/play/a082/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="1418" group-title=General, HGTV
+#EXTINF:-1 type="stream" channelId="1418" group-title="General", HGTV
 http://38.7.197.119:4000/play/a00q/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/mi%20pelicula.jpg" group-title=General, Mi Pelicula
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/mi%20pelicula.jpg" group-title="General", Mi Pelicula
 http://45.173.203.73:12000/play/a07l/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="56" group-title=General, Nat Geo
+#EXTINF:-1 type="stream" channelId="56" group-title="General", Nat Geo
 http://45.232.210.1:18000/play/a09a/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="188" group-title=General tvg-country="CL", Sony
+#EXTINF:-1 type="stream" channelId="188" group-title="General" tvg-country="CL", Sony
 http://38.224.48.4:8000/play/a0hw/index.m3u8
 
-#EXTINF:-1 type="stream" channelId="2007" group-title=General tvg-country="CL", Sony Cine
+#EXTINF:-1 type="stream" channelId="2007" group-title="General" tvg-country="CL", Sony Cine
 https://a-cdn.klowdtv.com/803B48A/a-klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 type="stream" channelId="383" group-title=General, Space
+#EXTINF:-1 type="stream" channelId="383" group-title="General", Space
 http://38.7.197.119:4000/play/a00n/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="177" group-title=General, Star Channel
+#EXTINF:-1 type="stream" channelId="177" group-title="General", Star Channel
 http://38.250.178.205:8000/play/a08w/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="2625" group-title=General, Studio Universal
+#EXTINF:-1 type="stream" channelId="2625" group-title="General", Studio Universal
 http://38.250.178.205:8000/play/a0es/index.m3u8
 
-#EXTINF:-1 type="stream" channelId="895" group-title=General, TCM
+#EXTINF:-1 type="stream" channelId="895" group-title="General", TCM
 http:\\45.232.210.1:18000\play\a09k\index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="1052" audio-track="spa" group-title=General tvg-country="CL", TNT
+#EXTINF:-1 type="stream" channelId="1052" audio-track="spa" group-title="General" tvg-country="CL", TNT
 http://38.7.197.119:4000/play/a00m/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="2686" group-title=General, TNT Series
+#EXTINF:-1 type="stream" channelId="2686" group-title="General", TNT Series
 http://186.33.57.68:9000/play/a0ab/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="3317" group-title=General, Universal Channel
+#EXTINF:-1 type="stream" channelId="3317" group-title="General", Universal Channel
 http://181.78.71.71:18000/play/a04i/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="187" group-title=General, Universal Cinema
+#EXTINF:-1 type="stream" channelId="187" group-title="General", Universal Cinema
 http://38.56.111.14:8000/play/a046/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="2557" group-title=General, Warner TV
+#EXTINF:-1 type="stream" channelId="2557" group-title="General", Warner TV
 http://38.7.197.119:4000/play/a00d/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/Xtrema.jpg" group-title=General tvg-country="CL", Xtrema Accion
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/Xtrema.jpg" group-title="General" tvg-country="CL", Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/dsports.jpg" group-title="Deporte" tvg-country="CL", DSports
