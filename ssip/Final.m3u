@@ -144,7 +144,7 @@ http://177.53.153.21:8000/play/a11t/index.m3u8?hls
 http://45.232.210.1:18000/play/a08f/index.m3u8?hls
 
 #EXTINF:11 type="stream" channelId="2584", HBO Family
-http://186.33.57.68:9000/play/a02s/index.m3u8?hls
+http://45.232.210.1:18000/play/a08i/index.m3u8?hls
 
 #EXTINF:11 type="stream" channelId="2725", HBO Mundi
 http://190.95.60.228:12061/play/a36h
