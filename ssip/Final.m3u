@@ -129,7 +129,7 @@ http://45.181.120.147:9800/play/080/index.m3u8?hls
 http://45.160.13.201:8000/play/094?hls
 
 #EXTINF:-1 type="stream" channelId="1304" group-title="General", FX
-http://38.224.48.4:8000/play/a0ww/index.m3u8.ts
+http://38.224.48.4:8000/play/a0ww/index.m3u8
 
 #EXTINF:0 type="stream" channelId="333" group-title="General" tvg-country="CL", Golden
 http://45.181.120.147:9800/play/086/index.m3u8?hls
