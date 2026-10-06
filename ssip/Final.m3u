@@ -146,10 +146,10 @@ http://45.232.210.1:18000/play/a08f/index.m3u8?hls
 #EXTINF:-1 type="stream" channelId="2584" group-title=General, HBO Family
 http://45.232.210.1:18000/play/a08i/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="2725", HBO Mundi
+#EXTINF:-1 type="stream" channelId="2725" group-title=General, HBO Mundi
 http://190.95.60.228:12061/play/a36h?hls
 
-#EXTINF:-1 type="stream" channelId="2585" tvg-country="CL", HBO Plus
+#EXTINF:-1 type="stream" channelId="2585" group-title=General tvg-country="CL", HBO Plus
 http://45.232.210.1:18000/play/a08g/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="361" group-title=General, HBO Pop
