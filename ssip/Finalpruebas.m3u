@@ -194,3 +194,5 @@ http://170.247.204.9:8000/play/a01u/index.m3u8u?hls
 http://170.247.204.9:8000/play/a0c0/index.m3u8u?hls
 #EXTINF:11 type="stream" channelId="4668" group="Deporte" tvg-country="CL", TNT Sports Premiun
 http://170.247.204.9:8000/play/a00e/index.m3u8u?hls
+#EXTINF:11 type="stream" channelId="4668" group="Deporte" tvg-country="CL", venus
+http://45.232.210.1:18000/play/a0ca/index.m3u8
