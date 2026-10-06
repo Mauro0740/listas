@@ -27,25 +27,25 @@ http://38.7.197.119:4000/play/a017/index.m3u8?hls
 http://45.232.210.1:18000/play/a07d/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="3986" group="Nacionales", Canal 13
-http://45.232.210.1:18000/play/a07g/index.m3u8
+http://45.232.210.1:18000/play/a07g/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="295" group="Nacionales", 13 C
 https://redirector.dps.live/hls/13cultura/playlist.m3u8?hls
 
 #EXTINF:-1 tvg-id="0164" tvg-name="Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" tvg-country="CL" tvg-language="spa" group="Nacionales", 13 Teleseries
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-name="Vía X" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/chile/via-x-cl.png" group="Nacionales", ViaX
-http://45.232.210.1:18000/play/a092/index.m3u8
+http://45.232.210.1:18000/play/a092/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/Rectv.png" group="Nacionales", 13 Rec
 http://38.7.197.119:4000/play/a00i/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="4750" group="Nacionales", Zona Latina
-http://45.232.210.1:18000/play/a09h/index.m3u8
+http://45.232.210.1:18000/play/a09h/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="2883" group="Nacionales", CNN
-http://45.232.210.1:18000/play/a09j/index.m3u8
+http://45.232.210.1:18000/play/a09j/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="4695" group="Nacionales", Teletrack
 http://38.7.197.119:4000/play/a01w/index.m3u8?hls
@@ -60,7 +60,7 @@ http://170.247.204.9:8000/play/a0cs/index.m3u8u?hls
 http://38.7.197.119:4000/play/a00w/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="1197" group="Infantil", Disney Jr
-http://45.232.210.1:18000/play/a08j/index.m3u8
+http://45.232.210.1:18000/play/a08j/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="19" group="Infantil", Disney
 http://45.166.93.156:9999/play/a0f3/index.m3u8?hls
@@ -69,13 +69,13 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8?hls
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/FMHkids.png" group="Infantil" tvg-country="CL", FMH Kids
-http://45.181.120.147:9800/play/081/index.m3u8
+http://45.181.120.147:9800/play/081/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="41" group="Infantil" audio-track="spa" tvg-country="CL" size="Small", Nickelodeon
 http://38.224.231.176:8000/play/a02x/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="322" group="Infantil", Nick Jr
-http://45.232.210.1:18000/play/a0bg/index.m3u8
+http://45.232.210.1:18000/play/a0bg/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="2639" group="Infantil", Tooncast
 http://45.166.73.251:4000/play/a03z/index.m3u8?hls
@@ -126,7 +126,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 http://45.181.120.147:9800/play/080/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/FMHmovies.png", FMH Movie
-http://45.160.13.201:8000/play/094
+http://45.160.13.201:8000/play/094?hls
 
 #EXTINF:-1 type="stream" channelId="1304", FX
 http://38.224.48.4:8000/play/a0ww/index.m3u8?hls
@@ -147,7 +147,7 @@ http://45.232.210.1:18000/play/a08f/index.m3u8?hls
 http://45.232.210.1:18000/play/a08i/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="2725", HBO Mundi
-http://190.95.60.228:12061/play/a36h
+http://190.95.60.228:12061/play/a36h?hls
 
 #EXTINF:-1 type="stream" channelId="2585" tvg-country="CL", HBO Plus
 http://45.232.210.1:18000/play/a08g/index.m3u8?hls
@@ -156,7 +156,7 @@ http://45.232.210.1:18000/play/a08g/index.m3u8?hls
 http://186.33.57.68:9000/play/a09i/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="2583", HBO Signature
-http://38.210.3.64:8090/play/a0ht
+http://38.210.3.64:8090/play/a0ht?hls
 
 #EXTINF:-1 type="stream" channelId="2587", HBO Xtreme
 http://179.1.158.52:8000/play/a0dn/index.m3u8
@@ -165,7 +165,7 @@ http://179.1.158.52:8000/play/a0dn/index.m3u8
 http://38.7.197.119:4000/play/a00t/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="1201", History 2
-http://38.7.195.44:8000/play/a082
+http://38.7.195.44:8000/play/a082/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="1418", HGTV
 http://38.7.197.119:4000/play/a00q/index.m3u8?hls
@@ -186,7 +186,7 @@ https://a-cdn.klowdtv.com/803B48A/a-klowdtv.com/live1/cine_720p/playlist.m3u8
 http://38.7.197.119:4000/play/a00n/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="177", Star Channel
-http://38.250.178.205:8000/play/a08w/index.m3u8
+http://38.250.178.205:8000/play/a08w/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="2625", Studio Universal
 http://38.250.178.205:8000/play/a0es/index.m3u8
