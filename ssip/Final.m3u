@@ -135,7 +135,7 @@ http://38.224.48.4:8000/play/a0ww/index.m3u8?hls
 http://45.181.120.147:9800/play/086/index.m3u8?hls
 
 #EXTINF:11 type="stream" channelId="2502", Golden Edge
-http://186.33.57.68:9000/play/a0ah/index.m3u8?hls
+http://45.160.13.201:8000/play/113?hls
 
 #EXTINF:11 type="stream" channelId="1330", HBO
 http://177.53.153.21:8000/play/a11t/index.m3u8?hls
@@ -144,7 +144,7 @@ http://177.53.153.21:8000/play/a11t/index.m3u8?hls
 http://45.232.210.1:18000/play/a08f/index.m3u8?hls
 
 #EXTINF:11 type="stream" channelId="2584", HBO Family
-http://170.247.204.9:8000/play/a04t/index.m3u8u?hls
+http://186.33.57.68:9000/play/a02s/index.m3u8?hls
 
 #EXTINF:11 type="stream" channelId="2725", HBO Mundi
 http://190.95.60.228:12061/play/a36h
