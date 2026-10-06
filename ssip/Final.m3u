@@ -132,10 +132,10 @@ http://45.160.13.201:8000/play/094
 http://38.224.48.4:8000/play/a0ww/index.m3u8?hls
 
 #EXTINF:11 type="stream" channelId="333" tvg-country="CL", Golden
-http://181.205.205.170:8888/play/a0v8/index.m3u8?hls
+http://190.60.44.98:9000/play/a0tu/index.m3u8?hls
 
 #EXTINF:11 type="stream" channelId="2502", Golden Edge
-http://38.210.3.64:8090/play/a0co
+http://186.33.57.68:9000/play/a0ah/index.m3u8?hls
 
 #EXTINF:11 type="stream" channelId="1330", HBO
 http://177.53.153.21:8000/play/a11t/index.m3u8?hls
