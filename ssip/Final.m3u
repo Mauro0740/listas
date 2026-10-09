@@ -63,7 +63,7 @@ http://38.7.197.119:4000/play/a00w/index.m3u8?hls
 #EXTINF:-1 type="stream" channelId="1197" group-title="Infantil", Disney Jr
 http://45.232.210.1:18000/play/a08j/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="19" group="Infantil", Disney
+#EXTINF:-1 type="stream" channelId="19" group-title="Infantil", Disney
 http://45.166.93.156:9999/play/a0f3/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/el%20chavo.jpg" group-title="Infantil" tvg-country="CL", El Chavo
