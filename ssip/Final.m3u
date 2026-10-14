@@ -187,7 +187,7 @@ https://a-cdn.klowdtv.com/803B48A/a-klowdtv.com/live1/cine_720p/playlist.m3u8
 http://38.7.197.119:4000/play/a00n/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="177" group-title="General", Star Channel
-http://170.247.204.9:8000/play/a023/index.m3u8u?hls
+http://186.33.57.64:9000/play/a07t/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelId="2625" group-title="General", Studio Universal
 http://209.61.81.38:8000/play/a04c/index.m3u8?hls
