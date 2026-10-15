@@ -219,9 +219,6 @@ http://186.148.196.250:81/play/a0o4/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mauro0740/listas/refs/heads/main/Logos/dsports2.png" group-title="Deporte" tvg-country="CL", DSports 2
 http://181.205.205.170:8888/play/a0x6/index.m3u8?hls
 
-#EXTINF:-1 type="stream" channelId="1328" group-title="Deporte" tvg-country="CL", Fox Sports
-http://186.33.57.100:8000/play/a21u/index.m3u8?hls
-
 #EXTINF:-1 type="stream" channelId="1263" group-title="Deporte" tvg-country="CL", ESPN
 http://170.247.204.9:8000/play/a04p/index.m3u8u?hls
 
