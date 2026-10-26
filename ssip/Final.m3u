@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion,https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz" x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion,https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz"
+
 #EXTINF:-1 type="stream" channelId="1745" group-title="Nacionales", La Red
 http://45.166.73.251:4000/play/a04k/index.m3u8
 
